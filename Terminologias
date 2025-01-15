@@ -1,0 +1,33 @@
+Conceitos Gerais:
+    |-> Inteligência Artificial: Área da Ciência da Computação responsável pelo
+    desenvolvimento de sistem que simulem a capacidade humana.
+    |-> Inteligência computacional: Composto por redes neurais, computação
+    evolucionária e lógica nebulosa (fuzzy)
+    |-> Machine Learning (Algoritmo): Métodos matemáticos para treinar
+    algoritmos. Utiliza os algoritmos para o Data Mining.
+    |-> Data Mining: Extração de dados em base de dados, usando métodos de
+    aprendizagem de máquina.
+    |-> Redes Neurais: É um tipo de aprendizagem de máquina, sendo um método
+    matemático.
+    |-> Deep Learning: Grande quantidade de dados e processadpres mais potentes.
+    Básicamente sendo uma gigantesca rede neural.
+    |-> Big Data: Imenso volume de dados. Utiliza os algoritmos para extração de
+    dados.
+    |-> Ciência de dados: Exploração; Análise de dados; Ciência da computação +
+    Estatística; e Machine Learning;
+
+
+Aprendizagem de Máquina:
+
+Método Preditivos: Basiado num conjunto de atributos tenta-se prever o futuro.
+
+Métodos Descritivos: Basea-se nas descrições dos objetos analisados.
+
+
+Tipos de Variáveis:
+    Numéricas (int):
+        |-> Contínua (Números Reais)
+        |-> Discreta (Conjunto de Valores)
+    Categóricas (str):
+        |-> Nominal (Não mensuráveis, cor, gênero)
+        |-> Ordinal (Ordenação, P-M-G-GG)
