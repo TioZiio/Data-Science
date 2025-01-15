@@ -1,0 +1,9 @@
+Python Pandas:
+    df.describe()
+        count - Contagem de linhas do BD.
+        mean - Média de todos os valores.
+        std - Desvio padrão.
+        min - O menor valor.
+        25%,50%,75% - Correspondem a médias co base na porcentagem. Se o 25%
+            corresponde a 1.5, logo 25% de todos os valores esta até 1.5.
+        max - Maiores valores do BD.
