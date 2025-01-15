@@ -28,6 +28,7 @@
 *.vscode
 
 # Arquivos de Projeto Específico
+*.zip*
 *.ui
 *.yml
 
